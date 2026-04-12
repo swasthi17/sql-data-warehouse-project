@@ -32,14 +32,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
----
-
-###🛡️ License
+🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
----
-
-###🌟 About Me
+🌟 About Me
 
 Hi there! I'm Swasthi Shetty. I’m a data analytics enthusiast passionate about learning, exploring, and building analytical solutions that turn data into meaningful insights.
